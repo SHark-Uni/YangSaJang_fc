@@ -87,4 +87,5 @@ class JPARepositoryTest {
         assertThat(articleCommentRepository.count()).isEqualTo(prevArticleComment-deletedCommentSize);
 
     }
+
 }
