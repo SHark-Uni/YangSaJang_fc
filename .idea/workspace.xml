@@ -4,74 +4,274 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c01e54-2bf5-4c99-9583-f6eed42837a5" name="Changes" comment="" />
+    <list default="true" id="e0fdc22d-2508-417c-b41b-4aaae0a5e1d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/ArticleComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/ArticleComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/fastcampus-project-board">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/fastcampus-project-board">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/#6-boot" />
-                    <option name="lastUsedInstant" value="1693649211" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/#4-usecase" />
-                    <option name="lastUsedInstant" value="1693649210" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2UpmYjm5YOcDS0Pn70oNwKtPKvD" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WKlTkwlKMjvPr6qRRstYH2e5DS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mapins/Desktop/Dev/YangSaJang_fc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/wnsrl/Downloads/jpa-buddy-2022.2.5-213.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "spring.configuration.checksum": "21a0b134ab803e0fda52b04658bb3d83",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "MySQL"
+    ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fastcampus.projectboard.repository" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.JPARepositoryTest">
+    <configuration name="JPARepositoryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fastcampus-project-board" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.fastcampus.projectboard.repository.JPARepositoryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="JPARepositoryTest.givenTestData_whenDeleting_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fastcampus-project-board" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.fastcampus.projectboard.repository.JPARepositoryTest.givenTestData_whenDeleting_thenWorksFine&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="JPARepositoryTest.givenTestData_whenInsert_thenPlusOne" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fastcampus-project-board" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.fastcampus.projectboard.repository.JPARepositoryTest.givenTestData_whenInsert_thenPlusOne&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="JPARepositoryTest.givenTestData_whenSelecting_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fastcampus-project-board" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.fastcampus.projectboard.repository.JPARepositoryTest.givenTestData_whenSelecting_thenWorksFine&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="JPARepositoryTest.givenTestData_whenUpdating_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fastcampus-project-board" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.fastcampus.projectboard.repository.JPARepositoryTest.givenTestData_whenUpdating_thenWorksFine&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FastCampusProjectBoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="project-board.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fastcampus.projectboard.FastCampusProjectBoardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.JPARepositoryTest" />
+        <item itemvalue="Gradle.JPARepositoryTest.givenTestData_whenDeleting_thenWorksFine" />
+        <item itemvalue="Gradle.JPARepositoryTest.givenTestData_whenUpdating_thenWorksFine" />
+        <item itemvalue="Gradle.JPARepositoryTest.givenTestData_whenInsert_thenPlusOne" />
+        <item itemvalue="Gradle.JPARepositoryTest.givenTestData_whenSelecting_thenWorksFine" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8c01e54-2bf5-4c99-9583-f6eed42837a5" name="Changes" comment="" />
-      <created>1693644945597</created>
+      <changelist id="e0fdc22d-2508-417c-b41b-4aaae0a5e1d7" name="Changes" comment="" />
+      <created>1696489163436</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1693644945597</updated>
-      <workItem from="1693644946602" duration="3316000" />
+      <updated>1696489163436</updated>
+      <workItem from="1696489168896" duration="1017000" />
+      <workItem from="1696492295369" duration="1224000" />
+      <workItem from="1696493542379" duration="174000" />
+      <workItem from="1696493739366" duration="195000" />
+      <workItem from="1696493959332" duration="73000" />
+      <workItem from="1696494057134" duration="429000" />
+      <workItem from="1696494520558" duration="1959000" />
+      <workItem from="1696645672500" duration="612000" />
+      <workItem from="1696742677439" duration="3582000" />
+      <workItem from="1696746312316" duration="866000" />
+      <workItem from="1696747827098" duration="4372000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
