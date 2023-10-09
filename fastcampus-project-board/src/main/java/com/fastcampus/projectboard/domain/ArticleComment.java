@@ -16,9 +16,8 @@ import java.util.Objects;
 @Getter
 @ToString
 
-@EntityListeners(AuditingEntityListener.class)
 @Entity
-public class ArticleComment {
+public class ArticleComment extends AuditingFields{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -27,20 +26,8 @@ public class ArticleComment {
     @ManyToOne(optional = false)
     private Article article;
 
-    @Setter
-    @Column(nullable = false, length= 500)
-    private String content;
+    @Setter @Column(nullable = false, length= 500) private String content;
 
-    @CreatedBy
-    @Column(nullable = false)
-    private String createdBy;
-
-    @LastModifiedBy
-    @Column(nullable = false)
-    private String modifiedBy;
-
-    @CreatedDate @Column(nullable = false) private LocalDateTime createdAt;
-    @LastModifiedDate @Column(nullable = false) private LocalDateTime modifiedAt;
 
     protected ArticleComment(){}
 

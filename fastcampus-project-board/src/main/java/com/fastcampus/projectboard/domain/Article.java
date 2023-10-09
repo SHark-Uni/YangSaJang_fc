@@ -23,22 +23,17 @@ import java.util.Set;
         @Index(columnList = "title"),
         @Index(columnList = "createdBy"),
 })
-@EntityListeners(AuditingEntityListener.class)
+
 @Entity
-public class Article {
+public class Article extends AuditingFields{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Setter
-    @Column(nullable = false)
-    private String title;
-    @Setter
-    @Column(nullable = false,length = 10000)
-    private String content;
+    @Setter @Column(nullable = false) private String title;
+    @Setter @Column(nullable = false,length = 10000) private String content;
 
-    @Setter
-    private String hashtag;
+    @Setter private String hashtag;
 
     // 하지만, 댓글 데이터 또한 유용할 수 있다. 추후에 어떠한 방식으로든 이용될 수 있음.
     // 백업 or 데이터를 이용한 소비자 패턴 분석 등등 ..
@@ -47,22 +42,6 @@ public class Article {
     @OrderBy("id")
     @OneToMany(mappedBy = "article",cascade = CascadeType.ALL)
     private final Set<ArticleComment> articleComments = new LinkedHashSet<>();
-
-    @CreatedBy
-    @Column(nullable = false)
-    private String createdBy;
-
-    @LastModifiedBy
-    @Column(nullable = false)
-    private String modifiedBy;
-
-    @CreatedDate
-    @Column(nullable = false)
-    private LocalDateTime createdAt;
-
-    @LastModifiedDate
-    @Column(nullable = false)
-    private LocalDateTime modifiedAt;
 
     protected Article(){};
 
