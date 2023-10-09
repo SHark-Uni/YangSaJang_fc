@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0fdc22d-2508-417c-b41b-4aaae0a5e1d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/project-board.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/63b4ae50-2e42-42e6-a658-cc3f26b9d341.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/63b4ae50-2e42-42e6-a658-cc3f26b9d341.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/FastCampusProjectBoardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/FastCampusProjectBoardApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/Article.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/ArticleComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/domain/ArticleComment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +44,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,6 +73,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
@@ -264,6 +269,7 @@
       <workItem from="1696742677439" duration="3582000" />
       <workItem from="1696746312316" duration="866000" />
       <workItem from="1696747827098" duration="4372000" />
+      <workItem from="1696831994871" duration="941000" />
     </task>
     <servers />
   </component>
